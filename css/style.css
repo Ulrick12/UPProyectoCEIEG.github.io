@@ -1012,6 +1012,9 @@ footer .waves#wave4{
     color: #fff;
     transition: all .3s ease;
 }
+.copy{
+    font-size: 12px;
+}
 .depa:hover{
     color: #a5d9fa;
     transform: translateY(-15px);
