@@ -365,6 +365,7 @@ header{
 }
 .amarillo{
     padding: 1em 0;
+    padding-left: 52px;
     display: block;
     color: #020303;
     transition: all .3s ease;
