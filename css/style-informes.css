@@ -415,7 +415,7 @@ header{
 }
 
 .selected{
-    background-color: #34affc;
+    background-color: #3a726d;
 }
 
 .btn-acordeon:checked ~ .contenido__opciones{
