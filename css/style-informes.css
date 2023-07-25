@@ -423,7 +423,7 @@ header{
     color: black;
     max-height: 600px;
     padding: 15px 0px;
-    
+    transition: all .3s ease-in;
 }
 .dropdown__arrow{
     margin-left: 5px;
